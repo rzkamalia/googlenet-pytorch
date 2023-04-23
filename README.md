@@ -19,5 +19,5 @@ Training Phase
 ```
 Testing Phase
 ```
-  python3 testing.py
+  python3 test.py
 ```
